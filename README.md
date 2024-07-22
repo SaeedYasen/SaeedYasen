@@ -31,9 +31,13 @@ Developed an end-to-end test plan and automated sanity suite for the TERMINAL X 
 ## Experience
 
 ### Full Stack Developer Intern at Dojo
-- Contributed to the development of a mobile application focused on empowering users to achieve life goals.
-- Utilized React Native, Node.js, and Visual Studio Code to optimize performance and user engagement.
-- Collaborated with a team of developers to efficiently deliver project milestones.
+A social platform for fulfilling dreams and life goals.
+- Contributed to the development of a mobile application on iOS and Android 
+platforms for Dojo
+- Utilized React Native, Node.js, and Visual Studio Code to optimise performance and 
+enhance user engagement
+- Collaborated with a team of three developers to efficiently deliver data to the 
+team lead
 
 ### Academic Mentor at Yezreel Valley College
 - Improved student learning outcomes through personalized mentoring in computer science courses.
