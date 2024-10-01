@@ -2,17 +2,16 @@
 
 **Information Systems Graduate | Data Analyst | Junior Full Stack Developer**
 
-Welcome to my GitHub profile! I am an Information Systems graduate with a passion for data analysis, software development, and continuous learning. Below you'll find a brief overview of my background, skills, and some of the projects I've worked on.
+Welcome to my GitHub profile! I am an Information Systems graduate passionate about software development, and continuous learning. Below is a brief overview of my background, skills, and some of the projects I've worked on.
 
 ## About Me
 
-I hold a B.Sc. in Information Systems from Yezreel Valley College and have recently completed a Data Analysis Course at HasoubLabs powered by Appleseeds. My journey has equipped me with strong analytical and programming skills, which I have applied in various projects and internships.
+I hold a B.Sc. in Information Systems from Yezreel Valley College. My journey has equipped me with strong analytical and programming skills, which I have applied in various projects and internships.
 
 ## Skills
 
 - **Programming Languages:** Python, Java, TypeScript, C, C++
 - **Frameworks:** React Native, Node.js
-- **Data Analysis Tools:** Excel, Tableau, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Bokeh)
 - **Software Development Tools:** PhpMyAdmin, Postman, Jira, Selenium, Playwright, Appium
 - **Languages:** Arabic (Native), Hebrew (Fluent), English (Advanced)
 
