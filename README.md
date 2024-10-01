@@ -1,6 +1,6 @@
 # Saeed Yasen
 
-**Information Systems Graduate | Data Analyst | Junior Full Stack Developer**
+**Information Systems Graduate | Junior Full Stack Developer**
 
 Welcome to my GitHub profile! I am an Information Systems graduate passionate about software development, and continuous learning. Below is a brief overview of my background, skills, and some of the projects I've worked on.
 
