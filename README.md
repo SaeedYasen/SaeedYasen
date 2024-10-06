@@ -12,13 +12,13 @@ I hold a B.Sc. in Information Systems from Yezreel Valley College. My journey ha
 
 - **Programming Languages:** Python, Java, TypeScript, C, C++
 - **Frameworks:** React Native, Node.js
-- **Software Development Tools:** PhpMyAdmin, Postman, Jira, Selenium, Playwright, Appium
+- **Software Development Tools:** Postman, Jira, Selenium, Playwright, Appium
 - **Languages:** Arabic (Native), Hebrew (Fluent), English (Advanced)
 
 ## Projects
 
 ### [Bank Application](https://github.com/SaeedYasen/Final_Project)
-Developed a banking payment system application using Java and XML in Android Studio, which simplifies fund transfers by generating MSAV files for processing by banks. This project earned a grade of 86.
+Developed a banking payment system application using Java and XML in Android Studio, simplifying fund transfers by generating MSAV files for banks to process. This project earned a grade of 86.
 
 ### [RNN Model](https://github.com/SaeedYasen/Project-RNN)
 Implemented an RNN model in Python, achieving 95% accuracy in predicting values closely matching the original data. This project earned a grade of 90.
@@ -46,4 +46,4 @@ team lead
 - **LinkedIn:** [linkedin.com/in/saeed-yasen](https://www.linkedin.com/in/saeed-yasen/)
 - **GitHub:** [github.com/SaeedYasen](https://github.com/SaeedYasen)
 
-Let's connect and explore opportunities in data analysis, full stack development, and QA automation!
+Let's connect and explore opportunities in data analysis, full-stack development, and QA automation!
