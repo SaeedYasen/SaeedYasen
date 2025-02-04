@@ -1,14 +1,23 @@
-👋 Hi, I'm Saeed Yasen, a Full Stack Developer with a focus on React Native, TypeScript, and backend integration. I enjoy optimizing performance, automating workflows, and building scalable applications.
+## 👋 Hi, I'm Saeed Yasen  
+🚀 **Full Stack Developer** | **React Native Specialist** | **Automation Enthusiast**  
 
-🔹 What I Do:
-🚀 Build mobile and web applications using React Native & Node.js
-⚡ Optimize performance and scalability of applications
-🤖 Implement automation and testing for reliable software
+I specialize in **React Native, TypeScript, and backend integration**, with a passion for **performance optimization and automation**. My focus is on building scalable and efficient applications that enhance user experience.  
 
-📌 Featured Projects:
-🔹 MASAV Payroll System – Secure file generation & transmission via FTP/SFTP
-🔹 Simple RNN Model – Predicting sine function values using deep learning
+---
 
-💡 Always open to discussing projects, collaborations, and new technologies!
+### 🔹 What I Do:  
+- 🚀 Build **mobile and web applications** using **React Native & Node.js**  
+- ⚡ Optimize **performance and scalability** of applications  
+- 🤖 Implement **automation and testing** for reliable software  
 
-📫 Get in Touch: LinkedIn | GitHub
+---
+
+### 📌 Featured Projects:  
+🔹 **[MASAV Payroll System](https://github.com/SaeedYasen/MASAV-Payroll-System)** – Secure file generation & transmission via FTP/SFTP  
+🔹 **[Simple RNN Model](https://github.com/SaeedYasen/Simple-RNN-Sine-Function-Prediction)** – Predicting sine function values using deep learning  
+
+---
+
+### 📫 Get in Touch:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saeed-yasen)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/SaeedYasen)  
