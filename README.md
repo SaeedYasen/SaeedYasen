@@ -1,23 +1,14 @@
-# 🚀 Hi, I'm Saeed Yasen!  
+👋 Hi, I'm Saeed Yasen, a Full Stack Developer with a focus on React Native, TypeScript, and backend integration. I enjoy optimizing performance, automating workflows, and building scalable applications.
 
-**👨‍💻 Junior Software Developer | QA Automation Enthusiast**  
+🔹 What I Do:
+🚀 Build mobile and web applications using React Native & Node.js
+⚡ Optimize performance and scalability of applications
+🤖 Implement automation and testing for reliable software
 
-Welcome to my GitHub! I'm passionate about **software development, automation, and problem-solving**. I love building efficient, scalable applications and testing frameworks that improve software reliability.  
+📌 Featured Projects:
+🔹 MASAV Payroll System – Secure file generation & transmission via FTP/SFTP
+🔹 Simple RNN Model – Predicting sine function values using deep learning
 
-## 🔧 Tech Stack & Tools  
-- **Languages:** Java, Python, SQL, C++, C#  
-- **Testing & Automation:** Selenium, Playwright, Postman  
-- **Version Control & Collaboration:** Git, Jira  
-- **Operating Systems:** Linux, Windows  
+💡 Always open to discussing projects, collaborations, and new technologies!
 
-## 🔥 What I Do  
-✅ Develop **full-stack applications** with a focus on performance and maintainability  
-✅ Build **automated test frameworks** to enhance software quality  
-✅ Debug, troubleshoot, and continuously improve application reliability  
-
-## 🌟 Notable Projects  
-- **MSAV – Banking Payment System**: Secure fund transfer system using Java & XML  
-- **Weather App**: Real-time weather data with API integration and error handling  
-- **Automation Scripts**: Selenium-based UI testing for web applications  
-
-I’m always excited to work on new projects, contribute to open-source, and collaborate with other developers. Feel free to check out my repositories and connect! 🚀  
+📫 Get in Touch: LinkedIn | GitHub
