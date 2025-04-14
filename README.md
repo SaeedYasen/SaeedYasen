@@ -14,7 +14,7 @@ I specialize in **React Native, TypeScript, and backend integration**, with a pa
 
 ### 📌 Featured Projects:  
 🔹 **[MASAV Payroll System](https://github.com/SaeedYasen/MASAV-Payroll-System)** – Secure file generation & transmission via FTP/SFTP  
-🔹 **[Simple RNN Model](https://github.com/SaeedYasen/Simple-RNN---Sine-Function-Prediction)** – Predicting sine function values using deep learning  
+🔹 **[Web Server – Java (Backend Project)](https://github.com/SaeedYasen/Web-Server)** – Developed a custom Java-based web server that handles CRUD operations (Create, Read, Update, Delete) on files.
 
 ---
 
