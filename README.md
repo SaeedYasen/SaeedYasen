@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Saeed Yasen]
+# 👋 Hi, I'm [Your Name]
 
 🎓 **B.Sc. in Information Systems** graduate  
 💻 **Full Stack Developer** with 1 year of hands-on experience  
@@ -30,21 +30,23 @@
 
 ### 🔹 AI Chatbot for Hospital Appointments
 A full-stack chatbot system using Flask and React.js that integrates GBooking API to allow patients to schedule hospital visits through a conversational interface.  
-**→** [https://github.com/SaeedYasen/TsofenFrontend](#) | [https://github.com/SaeedYasen/TsofenBackend](#)
+**→** [Frontend Repo](https://github.com/SaeedYasen/TsofenFrontend) | [Backend Repo](https://github.com/SaeedYasen/TsofenBackend)
 
 ### 🔹 RNN – Sine Function Prediction
 A Python-based mini project demonstrating time-series prediction using a simple Recurrent Neural Network (RNN).  
-**→** [https://github.com/SaeedYasen/Simple-RNN---Sine-Function-Prediction](#)
+**→** [View on GitHub](https://github.com/SaeedYasen/Simple-RNN---Sine-Function-Prediction)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: saeedyasen41@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/saeed-yasen/](#)  
-
+- 📧 Email: saeedyasen41@gmail.com  
+- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/saeed-yasen/)  
 
 ---
 
 _Thanks for visiting my GitHub!_  
 _Always open to collaboration and new challenges._
+
+
+
