@@ -2,19 +2,12 @@
 
 Hi there! I'm a junior full-stack developer passionate about solving real-world problems with code. I enjoy working on mobile-first solutions using React Native, Python, and Firebase.
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🏥 Hospital AI Chatbot
-Built a chatbot in React + Flask to help patients schedule appointments through natural conversation.
-
-### 🌄 Gemini Travel Bot (Hackathon)
-Telegram bot that helps users find hiking trails. Integrates Gemini API and OpenWeather API to ensure weather conditions are suitable.
-
-### 💼 MASAV Payroll Generator
-Java + SQL payroll system that generates MASAV-compliant payment files from employee CSV data.
-
-### 🐾 Dojo App
-React Native app for achieving life goals, developed as part of a 3-person team: Firebase backend and agile methodology.
+- 🏥 [Hospital AI Chatbot](https://github.com/SaeedYasen/hospital-chatbot) – Chatbot using React + Flask for booking appointments.
+- 🌄 [Gemini Travel Bot – Hackathon](https://github.com/SaeedYasen/gemini-travel-bot) – Telegram bot with weather analysis.
+- 💼 [MASAV Payroll Generator](https://github.com/SaeedYasen/masav-payroll) – Java + SQL system for payroll file generation.
+- 🐾 [Dogo App](https://github.com/SaeedYasen/dogo-app) – Goal-tracking mobile app using React Native + Firebase.
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/saeed-yasen/)
