@@ -33,7 +33,7 @@ I build and test reliable applications using **Selenium, Playwright, Appium, and
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/saeed-yasen/)  
 - [GitHub](https://github.com/SaeedYasen)  
-- 📧 saeed.yasen@gmail.com  
+- 📧 saeedyasen41@gmail.com  
 
 ---
 ✨ *Always learning, always testing – striving for quality in every line of code!* ✨
