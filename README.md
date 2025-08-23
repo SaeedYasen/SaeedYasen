@@ -8,7 +8,7 @@ Passionate about creating practical, user-friendly AI applications and solving r
 
 ## 🚀 Featured Projects
 
-- 🏥 [Hospital AI Chatbot](https://github.com/SaeedYasen/-Hospital-Appointment-Chatbot-Python-Flask-scheduling-logic-load-testing) – AI-based chatbot for medical appointments using **Python, Flask, and AI APIs**, with authentication and time slot logic.
+- 🏥 [Hospital AI Chatbot](https://github.com/SaeedYasen/-Hospital-Appointment-Chatbot-Python-Flask-scheduling-logic-load-testing.) – AI-based chatbot for medical appointments using **Python, Flask, and AI APIs**, with authentication and time slot logic.
 
 - 🌄 [Gemini Travel Bot – Hackathon](https://github.com/SaeedYasen/Travel_Bot) – Telegram bot for personalized trip suggestions, integrating **Google Gemini AI** and real-time weather data.
 
