@@ -15,7 +15,7 @@ I am passionate about QA Automation and Full Stack development, and I am eager t
 **Full Stack Developer Intern – Dojo (Feb 2024 – May 2024)**  
 - Developed features in the Dojo app, including comment & like functionalities for chat.  
 - Built user authentication (login & sign-up).  
-- Collaborated in Agile sprints with a team of 3 developers.  
+- Collaborated in Agile sprints with a team of three developers.  
 - Delivered tasks regularly for team lead review and feedback.
 
 ---
