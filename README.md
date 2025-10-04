@@ -39,8 +39,8 @@ I’m passionate about building reliable software, automating testing processes,
 ## 📫 Contact Me
 
 - **Email:** [saeedyasen41@gmail.com]  
-- **LinkedIn:** [linkedin.com/in/saeedyasen](https://linkedin.com/in/saeedyasen)  
-- **GitHub:** [github.com/SaeedYasen](https://github.com/SaeedYasen)  
+- **LinkedIn:** [linkedin.com/in/saeedyasen](https://www.linkedin.com/in/saeed-yasen/)  
+- **GitHub:** [github.com/SaeedYasen](hhttps://github.com/SaeedYasen)  
 
 ---
 
