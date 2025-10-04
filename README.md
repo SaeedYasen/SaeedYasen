@@ -1,65 +1,48 @@
-# Hi there 👋, I'm Saeed Yasen
+# Hi, I'm Saeed Yasen 👋
 
-**Full Stack Developer | QA Automation Enthusiast | Python & Android Developer**
+B.Sc. Information Systems graduate from Yezreel Valley College with hands-on experience in **Software Development, QA (Manual & Automation), and Technical Support**.  
 
----
-
-## 👨‍💻 About Me
-I'm a highly motivated and detail-oriented team player with a B.Sc. degree in Information Systems. I completed an internship as a Full Stack Developer in a startup, gaining hands-on experience in Python, SQL, Git, Android Studio, React Native, and Firebase. I love building practical applications and learning new technologies.  
-
-I am passionate about QA Automation and Full Stack development, and I am eager to contribute to innovative projects.
+I’m passionate about building reliable software, automating testing processes, and providing effective technical solutions. I enjoy working in Agile teams and continuously learning new technologies.  
 
 ---
 
-## 💼 Experience
-**Full Stack Developer Intern – Dojo (Feb 2024 – May 2024)**  
-- Developed features in the Dojo app, including comment & like functionalities for chat.  
-- Built user authentication (login & sign-up).  
-- Collaborated in Agile sprints with a team of three developers.  
-- Delivered tasks regularly for team lead review and feedback.
+## 🛠 Skills & Tools
+
+- **Programming:** Python, Java, JavaScript  
+- **Backend & Web:** Flask, REST APIs, JWT, Firebase Auth  
+- **QA / Automation:** Playwright, Appium, Manual Testing, E2E, Regression  
+- **Database & Tools:** SQL, Git, GitHub, Postman  
+- **Other:** CRM, SAP, Office Suite, Agile (Scrum)  
 
 ---
 
-## 🎓 Education
-**B.Sc. in Information Systems (2021 – 2024)**  
-- Final project: Developed a MASAV payment application to transfer salaries from employers to employees. Implemented frontend in Android Studio using Java, including employee data input and transaction display per employee or per period.
+## 💻 Selected Projects
 
----
+### **E2E Automation – TERMINAL X**
+- UI + API automation framework using **Playwright & JavaScript**  
+- Implemented logging, reporting, and test data management  
 
-## 🏆 Certifications
-- **Developers Boost Program** – Google & Reichman Tech School (Jun 2025 – Aug 2025)  
-  Hands-on training in Python, Git, and Google Gemini; completed real-world projects and a 48-hour Hackathon.  
-- **AI-Integrated Full-Stack Python Development** – Tsofen (2025)  
-- **QA Automation Bootcamp** – Elevation (Nov 2023 – Feb 2024)  
-  Focus on Postman API, DevOps, and test automation tools.  
-- **Java Advanced, Design Patterns & Networking Basics** – Tsofen-Tashbik  
+### **Mobile Automation – Task Agenda App**
+- Automated Android app flows with **Appium & Java**  
 
----
+### **MASAV Banking System (Android)**
+- Developed authentication, user roles, and invoice queries using **Java + Firebase**  
 
-## 🛠 Skills
-- **Programming Languages:** Python, Java, JavaScript  
-- **Mobile Development:** Android Studio (Java), React Native, Firebase  
-- **Web Development:** Basic HTML, CSS, JavaScript  
-- **Databases:** SQL  
-- **Version Control:** Git, GitHub  
-- **Methodologies:** Agile (Scrum, Sprints)  
+### **Smart Chatbot – Appointment Booking**
+- Flask backend with JWT, integrated **GPT-3.5 API** & GBooking API  
 
----
-
-## 🌐 Languages
-- Arabic: Native  
-- Hebrew: Advanced  
-- English: Advanced  
+### **Manual Testing – E-commerce Website**
+- Designed 12+ test cases, performed regression testing, and reported critical bugs  
 
 ---
 
 ## 📫 Contact Me
-- Email: [saeedyasen41@gmail.com](mailto:saeedyasen41@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/saeed-yasen/)  
-- [GitHub](https://github.com/SaeedYasen)
+
+- **Email:** [saeedyasen41@gmail.com]  
+- **LinkedIn:** [linkedin.com/in/saeedyasen](https://linkedin.com/in/saeedyasen)  
+- **GitHub:** [github.com/SaeedYasen](https://github.com/SaeedYasen)  
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building practical applications and participating in hackathons to challenge my skills and learn new technologies.
-
+I’m open to opportunities in **QA Automation, Full Stack Development, or Technical Support & Systems Implementation**.  
+Feel free to explore my repositories to see my projects and code in action!
