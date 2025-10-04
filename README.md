@@ -1,48 +1,67 @@
-# Hi, I'm Saeed Yasen 👋
-
-B.Sc. Information Systems graduate from Yezreel Valley College with hands-on experience in **Software Development, QA (Manual & Automation), and Technical Support**.  
-
-I’m passionate about building reliable software, automating testing processes, and providing effective technical solutions. I enjoy working in Agile teams and continuously learning new technologies.  
+# Saeed Yasen - Full Stack Developer | Python & AI Applications
 
 ---
 
-## 🛠 Skills & Tools
+## About Me
+Full Stack Developer with experience in Python, JavaScript, React, and Node.js. Skilled in building web and mobile applications, integrating AI APIs, and developing RESTful services. Passionate about delivering end-to-end solutions and leveraging AI to enhance user experiences. Strong problem-solving skills, teamwork, and experience working in Agile environments.  
 
-- **Programming:** Python, Java, JavaScript  
-- **Backend & Web:** Flask, REST APIs, JWT, Firebase Auth  
-- **QA / Automation:** Playwright, Appium, Manual Testing, E2E, Regression  
-- **Database & Tools:** SQL, Git, GitHub, Postman  
-- **Other:** CRM, SAP, Office Suite, Agile (Scrum)  
-
----
-
-## 💻 Selected Projects
-
-### **E2E Automation – TERMINAL X**
-- UI + API automation framework using **Playwright & JavaScript**  
-- Implemented logging, reporting, and test data management  
-
-### **Mobile Automation – Task Agenda App**
-- Automated Android app flows with **Appium & Java**  
-
-### **MASAV Banking System (Android)**
-- Developed authentication, user roles, and invoice queries using **Java + Firebase**  
-
-### **Smart Chatbot – Appointment Booking**
-- Flask backend with JWT, integrated **GPT-3.5 API** & GBooking API  
-
-### **Manual Testing – E-commerce Website**
-- Designed 12+ test cases, performed regression testing, and reported critical bugs  
+- 🌱 Currently learning advanced AI integration and cloud deployment  
+- 💡 Interested in AI-powered applications and full-stack projects  
+- ⚡ Fun fact: I enjoy turning hackathon ideas into real-world solutions  
 
 ---
 
-## 📫 Contact Me
+## Skills
+
+**Front-end:** HTML, CSS, JavaScript, React  
+**Back-end:** Python, Node.js, SQL, Firebase, REST APIs  
+**AI & Tools:** AI APIs, Google Gemini  
+**Other Tools:** Git, Android Studio  
+**Languages:** Arabic (Native), Hebrew (Advanced), English (Advanced)  
+
+---
+
+## Projects
+
+### Hospital Appointment Chatbot (2025)
+- AI-based chatbot built with Python and Flask for scheduling medical appointments  
+- Implemented user authentication, time slot logic, and system load simulations  
+
+### Tour Route Telegram Bot (Hackathon Project)
+- Gemini AI-powered Telegram bot providing personalized trip suggestions  
+- Integrated real-time weather data and Google APIs in a 48-hour team hackathon  
+
+---
+
+## Experience
+
+**Full Stack Developer – Dojo (2024)**
+- Developed a social goal-tracking mobile app using React Native and Node.js  
+- Built backend logic and integrated REST APIs  
+- Collaborated in Agile workflow with daily stand-ups and sprint management  
+
+**Academic Mentor – The Max Stern Yezreel Valley College (2021–2023)**
+- Assisted students in Data Structures, Databases, Algorithms, and Intro to Computer Science  
+
+---
+
+## Education
+
+**Developers Boost Program – Google & Reichman Tech School (2025)**
+- Hands-on training in Python, Git, and Google Gemini  
+- Experience in full stack and AI development via real-world projects and 48-hour hackathon  
+
+**B.Sc. in Information Systems – The Max Stern Yezreel Valley College (2021–2024)**
+- Final Project: Automated salary payment system using Java & Firebase with MASAV-format file generation  
+
+---
+
+## Contact
 
 - **Email:** [saeedyasen41@gmail.com]  
 - **LinkedIn:** [linkedin.com/in/saeedyasen](https://www.linkedin.com/in/saeed-yasen/)  
-- **GitHub:** [github.com/SaeedYasen](https://github.com/SaeedYasen)  
+- **GitHub:** [github.com/SaeedYasen](https://github.com/SaeedYasen) 
 
 ---
 
-I’m open to opportunities in **QA Automation, Full Stack Development, or Technical Support & Systems Implementation**.  
-Feel free to explore my repositories to see my projects and code in action!
+*“Turning ideas into code, and code into real-world solutions.”* 🚀
