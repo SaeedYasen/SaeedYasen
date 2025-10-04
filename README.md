@@ -52,7 +52,8 @@ Full Stack Developer with experience in Python, JavaScript, React, and Node.js. 
 - Experience in full stack and AI development via real-world projects and 48-hour hackathon  
 
 **B.Sc. in Information Systems – The Max Stern Yezreel Valley College (2021–2024)**
-- Final Project: Automated salary payment system using Java & Firebase with MASAV-format file generation  
+- Final Project: Automated salary payment system using Java & Firebase with MASAV-format file generation
+- Consolidates all required payment data in one place and generates MASAV-format files readable by banks.
 
 ---
 
