@@ -34,16 +34,16 @@ QA Engineer with a B.Sc. in Information Systems, experienced in **Manual and Aut
 
 ## Projects
 
-**E2E Automation – TERMINAL X** | [https://github.com/SaeedYasen/TerminalXAutomationTesting]  
+**E2E Automation – TERMINAL X** | [[GitHub_Link](https://github.com/SaeedYasen/TerminalXAutomationTesting)]  
 - Built an **end-to-end automation framework** for a website (UI + API).  
 - Implemented reporting, logging, and test data management.  
 - Tools: **Playwright, JavaScript**
 
-**Mobile Automation – Task Agenda App** | [https://github.com/SaeedYasen/QA-Project-AppiumTaskAgenda]  
+**Mobile Automation – Task Agenda App** | [[GitHub_Link](https://github.com/SaeedYasen/QA-Project-AppiumTaskAgenda)]  
 - Automated core Android app flows: navigation, task creation, editing.  
 - Tools: **Appium, Java**
 
-**Manual Testing – E-commerce Website** | [https://github.com/SaeedYasen/QA_Manual_Ecommerce]  
+**Manual Testing – E-commerce Website** | [[GitHub_Link](https://github.com/SaeedYasen/QA_Manual_Ecommerce)]  
 - Designed 12+ **manual test cases**, including regression and boundary testing.  
 - Reported a critical checkout bug.
 
@@ -52,7 +52,9 @@ QA Engineer with a B.Sc. in Information Systems, experienced in **Manual and Aut
 ## Education
 
 **B.Sc. Information Systems – The Max Stern Yezreel Valley College | 2021–2024**  
-- Final project: **MASAV payment app** (Java, Android, Firebase) – securely manages employee salary data. | [https://github.com/SaeedYasen/MASAV-Payroll-System]
+- Final project: **MASAV payment app** (Java, Android, Firebase) – securely manages employee salary data.
+
+**QA Automation Bootcamp – Elevation | GPA: 94** | [[Course_Page](https://drive.google.com/file/d/18yVOQV9HvaNA9q2O3Ln2010VfmsYv-M0/view)]
 
 **Developers Boost Program – Google & Reichman Tech School | Jun 2025 – Aug 2025**  
 - Focused on Python, Git, AI integration, and full-stack development.
@@ -62,4 +64,3 @@ QA Engineer with a B.Sc. in Information Systems, experienced in **Manual and Aut
 ---
 
 *“Turning ideas into tested, reliable software and code into real-world solutions.”* 🚀
-
