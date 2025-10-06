@@ -1,67 +1,65 @@
-# Saeed Yasen - Full Stack Developer | Python & AI Applications
+# Saeed Yasen
+
+**QA Engineer | Manual & Automation Testing**  
+📞 052-530-7728 | ✉️ saeedyasen41@gmail.com | [LinkedIn](https://www.linkedin.com/in/saeed-yasen/) | [GitHub](https://github.com/SaeedYasen)
 
 ---
 
-## About Me
-Full Stack Developer with experience in Python, JavaScript, React, and Node.js. Skilled in building web and mobile applications, integrating AI APIs, and developing RESTful services. Passionate about delivering end-to-end solutions and leveraging AI to enhance user experiences. Strong problem-solving skills, teamwork, and experience working in Agile environments.  
-
-- 🌱 Currently learning advanced AI integration and cloud deployment  
-- 💡 Interested in AI-powered applications and full-stack projects  
-- ⚡ Fun fact: I enjoy turning hackathon ideas into real-world solutions  
+## Summary
+QA Engineer with a B.Sc. in Information Systems, experienced in **Manual and Automation Testing**. Skilled in **Playwright, Appium, SQL, and API testing**. Strong understanding of **Agile methodologies, test planning, and end-to-end application testing**. Full-stack development background supports strong analytical and automation skills.
 
 ---
 
 ## Skills
 
-**Front-end:** HTML, CSS, JavaScript, React  
-**Back-end:** Python, Node.js, SQL, Firebase, REST APIs  
-**AI & Tools:** AI APIs, Google Gemini  
-**Other Tools:** Git, Android Studio  
-**Languages:** Arabic (Native), Hebrew (Advanced), English (Advanced)  
-
----
-
-## Projects
-
-### Hospital Appointment Chatbot (2025)
-- AI-based chatbot built with Python and Flask for scheduling medical appointments  
-- Implemented user authentication, time slot logic, and system load simulations  
-
-### Tour Route Telegram Bot (Hackathon Project)
-- Gemini AI-powered Telegram bot providing personalized trip suggestions  
-- Integrated real-time weather data and Google APIs in a 48-hour team hackathon  
+**Testing & QA:** Manual Testing, Test Automation, E2E Testing, Regression Testing, UI & API Testing, Test Case Design, Bug Reporting  
+**Automation Tools:** Playwright, Appium, Postman  
+**Programming & DB:** Python, Java, JavaScript, SQL  
+**Frameworks & Practices:** Agile/Scrum, Git, GitHub  
+**Languages:** Arabic (Native), Hebrew (Advanced), English (Advanced)
 
 ---
 
 ## Experience
 
-**Full Stack Developer – Dojo (2024)**
-- Developed a social goal-tracking mobile app using React Native and Node.js  
-- Built backend logic and integrated REST APIs  
-- Collaborated in Agile workflow with daily stand-ups and sprint management  
+**QA & Full Stack Developer Intern – Dojo | Feb 2024 – May 2024**  
+- Participated in Agile sprints to develop and test application features (authentication, chat).  
+- Collaborated in **API, backend, and UI testing**.  
+- Designed and executed **manual and automated test cases**.
 
-**Academic Mentor – The Max Stern Yezreel Valley College (2021–2023)**
-- Assisted students in Data Structures, Databases, Algorithms, and Intro to Computer Science  
+**Academic Mentor – Yezreel Valley College | 2021 – 2023**  
+- Mentored students in **Data Structures, Databases, Algorithms**, supporting analytical and problem-solving skills useful for QA.
+
+---
+
+## Projects
+
+**E2E Automation – TERMINAL X** | [https://github.com/SaeedYasen/TerminalXAutomationTesting]  
+- Built an **end-to-end automation framework** for a website (UI + API).  
+- Implemented reporting, logging, and test data management.  
+- Tools: **Playwright, JavaScript**
+
+**Mobile Automation – Task Agenda App** | [https://github.com/SaeedYasen/QA-Project-AppiumTaskAgenda]  
+- Automated core Android app flows: navigation, task creation, editing.  
+- Tools: **Appium, Java**
+
+**Manual Testing – E-commerce Website** | [https://github.com/SaeedYasen/QA_Manual_Ecommerce]  
+- Designed 12+ **manual test cases**, including regression and boundary testing.  
+- Reported a critical checkout bug.
 
 ---
 
 ## Education
 
-**Developers Boost Program – Google & Reichman Tech School (2025)**
-- Hands-on training in Python, Git, and Google Gemini  
-- Experience in full stack and AI development via real-world projects and 48-hour hackathon  
+**B.Sc. Information Systems – The Max Stern Yezreel Valley College | 2021–2024**  
+- Final project: **MASAV payment app** (Java, Android, Firebase) – securely manages employee salary data. | [https://github.com/SaeedYasen/MASAV-Payroll-System]
 
-**B.Sc. in Information Systems – The Max Stern Yezreel Valley College (2021–2024)**
-- Final Project: Developed a MASAV system using Java, XML, and Firebase to securely manage employee salary data and generate bank-ready MASAV files.
+**Developers Boost Program – Google & Reichman Tech School | Jun 2025 – Aug 2025**  
+- Focused on Python, Git, AI integration, and full-stack development.
 
----
-
-## Contact
-
-- **Email:** [saeedyasen41@gmail.com]  
-- **LinkedIn:** [linkedin.com/in/saeedyasen](https://www.linkedin.com/in/saeed-yasen/)  
-- **GitHub:** [github.com/SaeedYasen](https://github.com/SaeedYasen) 
+**AI-Integrated Full-Stack Python Development – Tsofen | Jan 2025 – May 2025**
 
 ---
 
-*“Turning ideas into code, and code into real-world solutions.”* 🚀
+*“Turning ideas into tested, reliable software and code into real-world solutions.”* 🚀
+
