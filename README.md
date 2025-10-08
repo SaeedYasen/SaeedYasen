@@ -1,66 +1,57 @@
-# Saeed Yasen
+# 👋 Hi, I'm Saeed Yasen
 
-**QA Engineer | Manual & Automation Testing**  
-📞 052-530-7728 | ✉️ saeedyasen41@gmail.com | [LinkedIn](https://www.linkedin.com/in/saeed-yasen/) | [GitHub](https://github.com/SaeedYasen)
+🎯 **Full Stack Developer | QA Automation Engineer**
 
----
-
-## Summary
-QA Engineer with a B.Sc. in Information Systems, experienced in **Manual and Automation Testing**. Skilled in **Playwright, Appium, SQL, and API testing**. Strong understanding of **Agile methodologies, test planning, and end-to-end application testing**. Full-stack development background supports strong analytical and automation skills.
+I'm passionate about building robust, intelligent, and well-tested web applications.  
+I combine **full-stack development** experience with **automation testing** expertise to deliver reliable, scalable, and maintainable software solutions.
 
 ---
 
-## Skills
-
-**Testing & QA:** Manual Testing, Test Automation, E2E Testing, Regression Testing, UI & API Testing, Test Case Design, Bug Reporting  
-**Automation Tools:** Playwright, Appium, Postman  
-**Programming & DB:** Python, Java, JavaScript, SQL  
-**Frameworks & Practices:** Agile/Scrum, Git, GitHub  
-**Languages:** Arabic (Native), Hebrew (Advanced), English (Advanced)
-
----
-
-## Experience
-
-**QA & Full Stack Developer Intern – Dojo | Feb 2024 – May 2024**  
-- Participated in Agile sprints to develop and test application features (authentication, chat).  
-- Collaborated in **API, backend, and UI testing**.  
-- Designed and executed **manual and automated test cases**.
-
-**Academic Mentor – Yezreel Valley College | 2021 – 2023**  
-- Mentored students in **Data Structures, Databases, Algorithms**, supporting analytical and problem-solving skills useful for QA.
+### 💻 Tech Stack
+**Languages:** Python, Java, JavaScript, SQL  
+**Backend:** Flask, REST APIs  
+**Frontend:** HTML, CSS, JavaScript  
+**Authentication:** Firebase Auth, JWT  
+**Testing:** Playwright, Appium, Postman  
+**Databases:** Firebase DB, SQLite  
+**Tools:** Git, GitHub, Agile (Scrum)
 
 ---
 
-## Projects
+### 🚀 Featured Projects
+#### 🧠 Smart Chatbot for Appointment Booking
+- Backend: Flask (Blueprints, JWT)
+- Integrated GPT-3.5 + GBooking API  
+- **[View Project](https://github.com/SaeedYasen/-Hospital-Appointment-Chatbot-Python-Flask-scheduling-logic-load-testing.)**
 
-**E2E Automation – TERMINAL X** | [[GitHub_Link](https://github.com/SaeedYasen/TerminalXAutomationTesting)]  
-- Built an **end-to-end automation framework** for a website (UI + API).  
-- Implemented reporting, logging, and test data management.  
-- Tools: **Playwright, JavaScript**
+#### 💰 MASAV Banking System (Android)
+- Java + Firebase Authentication & Database  
+- User roles, validation, and invoice query system  
+- **[View Project](https://github.com/SaeedYasen?tab=repositories)**
 
-**Mobile Automation – Task Agenda App** | [[GitHub_Link](https://github.com/SaeedYasen/QA-Project-AppiumTaskAgenda)]  
-- Automated core Android app flows: navigation, task creation, editing.  
-- Tools: **Appium, Java**
+#### 🧩 E2E Automation – Terminal X
+- Playwright framework for UI + API testing  
+- Added logging, reporting, and reusable fixtures  
+- **[View Project](https://github.com/SaeedYasen/TerminalXAutomationTesting)**
 
-**Manual Testing – E-commerce Website** | [[GitHub_Link](https://github.com/SaeedYasen/QA_Manual_Ecommerce)]  
-- Designed 12+ **manual test cases**, including regression and boundary testing.  
-- Reported a critical checkout bug.
-
----
-
-## Education
-
-**B.Sc. Information Systems – The Max Stern Yezreel Valley College | 2021–2024**  
-- Final project: **MASAV payment app** (Java, Android, Firebase) – securely manages employee salary data.
-
-**QA Automation Bootcamp – Elevation | GPA: 94** | [[Course_Page](https://drive.google.com/file/d/18yVOQV9HvaNA9q2O3Ln2010VfmsYv-M0/view)]
-
-**Developers Boost Program – Google & Reichman Tech School | Jun 2025 – Aug 2025**  
-- Focused on Python, Git, AI integration, and full-stack development.
-
-**AI-Integrated Full-Stack Python Development – Tsofen | Jan 2025 – May 2025**
+#### 📱 Mobile Automation – Task Agenda App
+- Appium + Java for Android automation  
+- Tested navigation, task creation, and editing  
+- **[View Project](https://github.com/SaeedYasen/QA-Project-AppiumTaskAgenda)**
 
 ---
 
-*“Turning ideas into tested, reliable software and code into real-world solutions.”* 🚀
+### 🧰 Certifications
+- **AI-Integrated Full Stack Python Development** – Tsofen (2025)  
+- **QA Automation Bootcamp** – Elevation (GPA: 94)  
+- **Developers Boost Program** – Google & Reichman Tech School (2025)
+
+---
+
+### 🌐 Let's Connect
+📧 **saeedyasen41@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/saeed-yasen/) • [GitHub](https://github.com/SaeedYasen)
+
+---
+
+> _"Code with quality. Test with empathy."_ 🧠
