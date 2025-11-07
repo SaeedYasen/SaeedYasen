@@ -41,7 +41,7 @@ Developed full-stack mobile app using **React Native** and **Node.js**, enabling
 
 ### 🧠 Education & Certifications
 
-- 🎓 **B.Sc. in Information Systems** – The Max Stern Yezreel Valley College (2024)  
+- 🎓 **B.Sc. in Information Systems** – The Max Stern Yezreel Valley College (2021-2024)  
 - 🚀 **Developers Boost Program** – Google & Reichman Tech School (2025)  
 - 🤖 **AI-Integrated Full Stack Python Development** – Tsofen (2025)  
 - 🧩 **QA Automation Bootcamp** – Elevation (GPA: 94)
