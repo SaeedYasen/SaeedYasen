@@ -20,14 +20,16 @@ My background in **Information Systems** and experience in both **frontend and b
 
 ### 🚀 Featured Projects
 
+#### 🗺️ Tour Route Telegram Bot (Hackathon Project)
+Built a **Gemini AI-powered** Telegram bot for generating personalized trip route suggestions based on user preferences and real-time weather data.  
+**[View Project](https://github.com/SaeedYasen/Travel_Bot)**
+
 #### 🤖 Hospital Appointment Chatbot
 AI-based chatbot built with **Python Flask** for medical appointment scheduling.  
 Implements authentication, time-slot logic, and load simulations.  
 **[View Project](https://github.com/SaeedYasen/-Hospital-Appointment-Chatbot-Python-Flask-scheduling-logic-load-testing.)**
 
-#### 🗺️ Tour Route Telegram Bot (Hackathon Project)
-Built a **Gemini AI-powered** Telegram bot for generating personalized trip route suggestions based on user preferences and real-time weather data.  
-**[View Project](https://github.com/SaeedYasen/Travel_Bot)**
+
 
 #### 💰 MASAV Payroll System (Java + Firebase)
 Developed a salary payment automation app with role-based access, validation, and MASAV banking file generation.  
