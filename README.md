@@ -52,7 +52,7 @@ Max Stern Yezreel Valley College
 ## 📫 Contact Me
 
 - **Email:** saeedyasen41@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/saeed-yas
+- **LinkedIn:** https://www.linkedin.com/in/saeed-yasen
 - **GitHub:** https://github.com/SaeedYasen
 
 ---
