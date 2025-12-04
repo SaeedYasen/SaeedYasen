@@ -1,60 +1,61 @@
 # 👋 Hi, I'm Saeed Yasen
 
-🎯 **Full Stack Developer | Python & JavaScript | AI Integration**
+### 🚀 Full Stack Developer | Mobile & Web Developer | Chatbot & API Integrations
 
-I’m a passionate Full Stack Developer focused on building intelligent, scalable, and user-friendly web applications.  
-My background in **Information Systems** and experience in both **frontend and backend development** allow me to connect business goals with technology — from data to deployment.
-
----
-
-### 💻 Tech Stack
-
-**Languages:** Python, JavaScript, SQL, Java  
-**Frontend:** React, React Native, HTML, CSS  
-**Backend:** Node.js (Express), Flask, Firebase, REST APIs  
-**AI & Tools:** Google Gemini, Git, GitHub, Agile (Scrum)  
-**Databases:** Firebase, SQLite, PostgreSQL  
-**Other Skills:** Authentication (JWT, Firebase Auth), API Integration, System Design
+I'm a passionate Full Stack Developer with hands-on experience building mobile apps, web systems, and smart chatbot solutions. I enjoy turning ideas into real, functional applications and continuously improving my skills.
 
 ---
 
-### 🚀 Featured Projects
+## 🔧 Technical Skills
 
-#### 🗺️ Tour Route Telegram Bot (Hackathon Project)
-Built a **Gemini AI-powered** Telegram bot for generating personalized trip route suggestions based on user preferences and real-time weather data.  
-**[View Project](https://github.com/SaeedYasen/Travel_Bot)**
-
-#### 🤖 Hospital Appointment Chatbot
-AI-based chatbot built with **Python Flask** for medical appointment scheduling.  
-Implements authentication, time-slot logic, and load simulations.  
-**[View Project](https://github.com/SaeedYasen/-Hospital-Appointment-Chatbot-Python-Flask-scheduling-logic-load-testing.)**
-
-
-
-#### 💰 MASAV Payroll System (Java + Firebase)
-Developed a salary payment automation app with role-based access, validation, and MASAV banking file generation.  
-**[View Project](https://github.com/SaeedYasen/MASAV-Payroll-System)**
-
-#### 📱 Dojo App – Social Goal Tracker
-Developed full-stack mobile app using **React Native** and **Node.js**, enabling users to set, track, and share personal goals.  
-
+- **Languages:** Java, Python, JavaScript  
+- **Frontend:** React, React Native  
+- **Backend:** Flask (Python), Node.js (basic)  
+- **Mobile Development:** Android Studio (Java, XML)  
+- **Databases:** Firebase, MongoDB  
+- **Tools & Technologies:** Git, REST APIs, OpenAI API, GBooking API  
 
 ---
 
-### 🧠 Education & Certifications
+## 🧑‍💻 Experience
 
-- 🎓 **B.Sc. in Information Systems** – The Max Stern Yezreel Valley College (2021-2024)  
-- 🚀 **Developers Boost Program** – Google & Reichman Tech School (2025)  
-- 🤖 **AI-Integrated Full Stack Python Development** – Tsofen (2025)  
-- 🧩 **QA Automation Bootcamp** – Elevation (GPA: 94)
-
----
-
-### 🌐 Let's Connect
-
-📧 **saeedyasen41@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/saeed-yasen/) • [GitHub](https://github.com/SaeedYasen)
+### **Full Stack Developer Intern — Dojo Startup**  
+**02/2024 – 05/2024**
+- Worked in a team of 3 developers on a React Native mobile app.  
+- Integrated **Firebase** for authentication and real-time data.  
+- Participated in task management, code reviews, and agile workflow.  
 
 ---
 
-> _"Build intelligently, code efficiently, and never stop learning."_ 🚀
+## 📌 Projects
+
+### **Masav Employee Management System (Android App)**
+- Android application to manage employee data and generate **MASAV salary-transfer files**.  
+- Built with **Java, XML (Android Studio), Firebase**.
+
+### **Hospital Appointment Chatbot**
+- Smart patient-assistant chatbot to book doctor appointments automatically.  
+- Backend: **Flask (Python)** | Frontend: **React**  
+- Database: **MongoDB**  
+- Integrated **OpenAI** for patient responses and **GBooking API** for scheduling.  
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Information Systems**  
+Max Stern Yezreel Valley College  
+**Graduated: 08/2025**
+
+---
+
+## 📫 Contact Me
+
+- **Email:** saeedyasen41@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/saeed-yas
+- **GitHub:** https://github.com/SaeedYasen
+
+---
+
+⭐ *Feel free to explore my repositories — always improving and building new projects!*  
+
