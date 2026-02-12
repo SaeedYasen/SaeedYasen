@@ -2,7 +2,7 @@
 
 ### Junior Backend / Full Stack Developer (Python)
 
-Information Systems graduate focused on backend development, API integrations, and AI-driven systems.
+Information Systems graduate focused on backend and full stack development, API integrations, and AI-driven systems.
 
 ---
 
@@ -11,7 +11,6 @@ Information Systems graduate focused on backend development, API integrations, a
 **Languages**
 - Python
 - JavaScript
-- Java
 
 **Backend**
 - Flask
@@ -20,19 +19,14 @@ Information Systems graduate focused on backend development, API integrations, a
 
 **Frontend**
 - React
-- React Native
 
 **Databases**
 - MongoDB
 - Firebase
-- SQL
 
 **Tools & Technologies**
 - Git
 - OpenAI API
-- GBooking API
-- Google Gemini
-- Android Studio
 
 ---
 
@@ -42,20 +36,20 @@ Information Systems graduate focused on backend development, API integrations, a
 02/2024 – 05/2024  
 - Developed mobile features using React Native and Firebase  
 - Implemented authentication and real-time database features  
-- Worked in an Agile team environment  
+- Worked in a small Agile team and participated in code reviews  
 
 ---
 
 ## 📌 Projects
 
 ### 🏥 Hospital Appointment Chatbot
-AI-powered chatbot for booking medical appointments automatically.  
-Built with Flask (Python), React, and MongoDB.  
-Integrated OpenAI API and scheduling API.
+- AI-powered chatbot enabling automatic booking of medical appointments  
+- Implemented user registration, authentication, database management, and OpenAI integration  
+- Built with Flask, React, MongoDB, and external scheduling APIs  
 
 ### 📱 Masav Employee Management System
-Android application for managing employee records and generating MASAV salary files.  
-Built with Java (Android Studio) and Firebase.
+- Android application for managing employee records and generating MASAV salary files  
+- Built with Java (Android Studio) and Firebase  
 
 ---
 
@@ -64,14 +58,10 @@ Built with Java (Android Studio) and Firebase.
 **B.Sc. in Information Systems**  
 Max Stern Yezreel Valley College — 08/2025  
 
-**Developers Boost Program – Google & Reichman Tech (2025)**  
-Hands-on training in Python, Git, and AI development (Google Gemini).  
-Built full-stack projects and participated in a 48-hour hackathon.
-
 ---
 
 ## 📫 Contact
 
 Email: saeedyasen41@gmail.com  
-LinkedIn: https://www.linkedin.com/in/saeed-yasen  
-GitHub: https://github.com/SaeedYasen
+LinkedIn: [https://www.linkedin.com/in/saeed-yasen](https://www.linkedin.com/in/saeed-yasen)  
+GitHub: [https://github.com/SaeedYasen](https://github.com/SaeedYasen)
