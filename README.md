@@ -2,7 +2,7 @@
 
 ### Junior Backend / Full Stack Developer (Python)
 
-Information Systems graduate focused on building backend-driven applications, APIs, and AI-integrated systems. I enjoy designing clean backend logic, integrating external services, and turning ideas into working products.
+Information Systems graduate focused on backend development, API integrations, and AI-driven systems.
 
 ---
 
@@ -16,8 +16,7 @@ Information Systems graduate focused on building backend-driven applications, AP
 **Backend**
 - Flask
 - REST APIs
-- Authentication
-- API Integration
+- Authentication & Validation
 
 **Frontend**
 - React
@@ -32,6 +31,7 @@ Information Systems graduate focused on building backend-driven applications, AP
 - Git
 - OpenAI API
 - GBooking API
+- Google Gemini
 - Android Studio
 
 ---
@@ -40,40 +40,33 @@ Information Systems graduate focused on building backend-driven applications, AP
 
 **Full Stack Developer Intern — Dojo Startup**  
 02/2024 – 05/2024  
-
-- Developed mobile application features using React Native.  
-- Implemented authentication and Firebase real-time database.  
-- Worked in a small Agile team and participated in code reviews.  
+- Developed mobile features using React Native and Firebase  
+- Implemented authentication and real-time database features  
+- Worked in an Agile team environment  
 
 ---
 
 ## 📌 Projects
 
-### 🏥 Hospital Appointment Chatbot (Main Project)
-
-AI-powered chatbot that analyzes patient input and books appointments automatically.
-
-- Backend: Flask (Python), REST APIs  
-- Frontend: React  
-- Database: MongoDB  
-- Integrated OpenAI API and external booking API  
-- Implemented authentication, validation logic, and conversation flow  
-
----
+### 🏥 Hospital Appointment Chatbot
+AI-powered chatbot for booking medical appointments automatically.  
+Built with Flask (Python), React, and MongoDB.  
+Integrated OpenAI API and scheduling API.
 
 ### 📱 Masav Employee Management System
-
-Android application for managing employee records and generating MASAV salary transfer files.  
-Built with Java (Android Studio) and Firebase for real-time data storage.  
-Focused on backend logic, data validation, and file generation structure.
+Android application for managing employee records and generating MASAV salary files.  
+Built with Java (Android Studio) and Firebase.
 
 ---
 
 ## 🎓 Education
 
-B.Sc. in Information Systems  
-Max Stern Yezreel Valley College  
-Graduated: 08/2025  
+**B.Sc. in Information Systems**  
+Max Stern Yezreel Valley College — 08/2025  
+
+**Developers Boost Program – Google & Reichman Tech (2025)**  
+Hands-on training in Python, Git, and AI development (Google Gemini).  
+Built full-stack projects and participated in a 48-hour hackathon.
 
 ---
 
