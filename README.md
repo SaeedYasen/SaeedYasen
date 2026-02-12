@@ -1,61 +1,84 @@
 # 👋 Hi, I'm Saeed Yasen
 
-### 🚀 Full Stack Developer | Mobile & Web Developer | Chatbot & API Integrations
+### Junior Backend / Full Stack Developer (Python)
 
-I'm a passionate Full Stack Developer with hands-on experience building mobile apps, web systems, and smart chatbot solutions. I enjoy turning ideas into real, functional applications and continuously improving my skills.
+Information Systems graduate focused on building backend-driven applications, APIs, and AI-integrated systems. I enjoy designing clean backend logic, integrating external services, and turning ideas into working products.
 
 ---
 
-## 🔧 Technical Skills
+## 🚀 Tech Stack
 
-- **Languages:** Java, Python, JavaScript  
-- **Frontend:** React, React Native  
-- **Backend:** Flask (Python), Node.js (basic)  
-- **Mobile Development:** Android Studio (Java, XML)  
-- **Databases:** Firebase, MongoDB  
-- **Tools & Technologies:** Git, REST APIs, OpenAI API, GBooking API  
+**Languages**
+- Python
+- JavaScript
+- Java
+
+**Backend**
+- Flask
+- REST APIs
+- Authentication
+- API Integration
+
+**Frontend**
+- React
+- React Native
+
+**Databases**
+- MongoDB
+- Firebase
+- SQL
+
+**Tools & Technologies**
+- Git
+- OpenAI API
+- GBooking API
+- Android Studio
 
 ---
 
 ## 🧑‍💻 Experience
 
-### **Full Stack Developer Intern — Dojo Startup**  
-**02/2024 – 05/2024**
-- Worked in a team of 3 developers on a React Native mobile app.  
-- Integrated **Firebase** for authentication and real-time data.  
-- Participated in task management, code reviews, and agile workflow.  
+**Full Stack Developer Intern — Dojo Startup**  
+02/2024 – 05/2024  
+
+- Developed mobile application features using React Native.  
+- Implemented authentication and Firebase real-time database.  
+- Worked in a small Agile team and participated in code reviews.  
 
 ---
 
 ## 📌 Projects
 
-### **Masav Employee Management System (Android App)**
-- Android application to manage employee data and generate **MASAV salary-transfer files**.  
-- Built with **Java, XML (Android Studio), Firebase**.
+### 🏥 Hospital Appointment Chatbot (Main Project)
 
-### **Hospital Appointment Chatbot**
-- Smart patient-assistant chatbot to book doctor appointments automatically.  
-- Backend: **Flask (Python)** | Frontend: **React**  
-- Database: **MongoDB**  
-- Integrated **OpenAI** for patient responses and **GBooking API** for scheduling.  
+AI-powered chatbot that analyzes patient input and books appointments automatically.
+
+- Backend: Flask (Python), REST APIs  
+- Frontend: React  
+- Database: MongoDB  
+- Integrated OpenAI API and external booking API  
+- Implemented authentication, validation logic, and conversation flow  
+
+---
+
+### 📱 Masav Employee Management System
+
+Android application for managing employee records and generating MASAV salary transfer files.  
+Built with Java (Android Studio) and Firebase for real-time data storage.  
+Focused on backend logic, data validation, and file generation structure.
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Information Systems**  
+B.Sc. in Information Systems  
 Max Stern Yezreel Valley College  
-**Graduated: 08/2025**
+Graduated: 08/2025  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- **Email:** saeedyasen41@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/saeed-yasen
-- **GitHub:** https://github.com/SaeedYasen
-
----
-
-⭐ *Feel free to explore my repositories — always improving and building new projects!*  
-
+Email: saeedyasen41@gmail.com  
+LinkedIn: https://www.linkedin.com/in/saeed-yasen  
+GitHub: https://github.com/SaeedYasen
