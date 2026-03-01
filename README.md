@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Saeed Yasen
 
-### Junior Backend Developer (Python) | API Integrations | AI-driven Systems
+### Junior Backend Developer (Python | Flask | JWT | MongoDB | REST APIs | OpenAI)
 
-B.Sc. in Information Systems with hands-on experience building backend systems, secure authentication flows, and AI-powered applications. Experienced in REST APIs, JWT, Flask, MongoDB, and external API integrations. Seeking a Junior Backend role to contribute and grow in high-tech.
+Backend-focused developer with a B.Sc. in Information Systems. Hands-on experience building secure and scalable backend systems, REST APIs, authentication flows, and AI-driven features. Experienced in full project lifecycle, from design to deployment, and eager to contribute to professional engineering teams.
 
 ---
 
@@ -13,9 +13,11 @@ B.Sc. in Information Systems with hands-on experience building backend systems, 
 - JavaScript
 
 **Backend**
-- Flask, REST APIs
-- JWT Authentication & Validation
-- Session Management & Scalability
+- Flask
+- REST APIs
+- JWT Authentication
+- Session & State Management
+- Authentication & Authorization concepts
 
 **Frontend**
 - React
@@ -25,42 +27,43 @@ B.Sc. in Information Systems with hands-on experience building backend systems, 
 - Firebase
 
 **Tools & Technologies**
-- Git & GitHub
+- Git
 - OpenAI API
-- Agile Workflow, Code Reviews
+- External API Integration (GBooking)
+- Agile Workflow & Code Reviews
 
 ---
 
 ## 🧑‍💻 Experience
 
 **Full Stack Developer Intern — Dojo Startup**  
-02/2024 – 05/2024  
-- Developed mobile and backend features using React Native, Firebase, and Python  
-- Implemented secure authentication, real-time database features, and backend integrations  
-- Participated in Agile workflow, sprint planning, and code reviews within a 3-person team  
-- Collaborated with team members on full-stack projects and system design
+*02/2024 – 05/2024*  
+- Built mobile features using React Native and Firebase  
+- Implemented authentication and real-time database features  
+- Connected backend logic with external APIs  
+- Participated in Agile workflow with a 3-person team and code reviews  
+- Assisted in mentoring peers on backend and database usage
 
 ---
 
 ## 📌 Projects
 
 ### 🏥 Hospital Appointment Chatbot
-- AI-powered chatbot enabling automatic booking of hospital appointments  
-- Backend with Flask and MongoDB; secure JWT-based authentication  
-- OpenAI integration for intelligent symptom analysis and department routing  
-- External API integration for appointment scheduling  
-- Designed stateful session management for scalability and robust user experience  
+- AI-powered chatbot enabling patients to book hospital appointments automatically  
+- Implemented secure registration & JWT authentication  
+- Integrated OpenAI API for intelligent department routing  
+- Managed database (MongoDB) interactions and session state  
+- Built end-to-end backend with Flask and external scheduling API integration
+
+### 🔐 Minimal Authentication API (Personal Project)
+- Backend microservice for authentication flows  
+- JWT-based login, password hashing with bcrypt, and protected routes  
+- Demonstrates knowledge of secure backend design, session management, and API structuring
 
 ### 📱 Masav Employee Management System
-- Android application for managing employee records and generating MASAV salary files  
-- Implemented secure backend and Firebase integration  
-- Built with Java (Android Studio) and Firebase real-time database
-
-### 🔒 Minimal Authentication API
-- Standalone backend project implementing Flask + MongoDB  
-- JWT Authentication and bcrypt password hashing  
-- Scalable session management demonstration  
-- Prepared for GitHub and LinkedIn showcase
+- Android app for managing employee records and generating MASAV salary files  
+- Built with Java (Android Studio) and Firebase  
+- Applied real-time database integration and secure data handling
 
 ---
 
@@ -73,6 +76,16 @@ Max Stern Yezreel Valley College — 08/2025
 
 ## 📫 Contact
 
-Email: saeedyasen41@gmail.com  
+Email: [saeedyasen41@gmail.com](mailto:saeedyasen41@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/saeed-yasen](https://www.linkedin.com/in/saeed-yasen)  
 GitHub: [https://github.com/SaeedYasen](https://github.com/SaeedYasen)
+
+---
+
+## 📌 What I Learn / Key Strengths
+- Designing and implementing backend systems with Python and Flask  
+- Creating secure authentication flows using JWT and bcrypt  
+- Structuring RESTful APIs and integrating external services  
+- Managing databases (MongoDB, Firebase) efficiently  
+- Building AI-driven features and intelligent routing with OpenAI API  
+- Agile workflow experience and peer code reviews
