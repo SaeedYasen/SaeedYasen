@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Saeed Yasen
 
-### Junior Backend / Full Stack Developer (Python)
+### Junior Backend Developer (Python) | API Integrations | AI-driven Systems
 
-Information Systems graduate focused on backend and full stack development, API integrations, and AI-driven systems.
+B.Sc. in Information Systems with hands-on experience building backend systems, secure authentication flows, and AI-powered applications. Experienced in REST APIs, JWT, Flask, MongoDB, and external API integrations. Seeking a Junior Backend role to contribute and grow in high-tech.
 
 ---
 
@@ -13,9 +13,9 @@ Information Systems graduate focused on backend and full stack development, API 
 - JavaScript
 
 **Backend**
-- Flask
-- REST APIs
-- Authentication & Validation
+- Flask, REST APIs
+- JWT Authentication & Validation
+- Session Management & Scalability
 
 **Frontend**
 - React
@@ -25,8 +25,9 @@ Information Systems graduate focused on backend and full stack development, API 
 - Firebase
 
 **Tools & Technologies**
-- Git
+- Git & GitHub
 - OpenAI API
+- Agile Workflow, Code Reviews
 
 ---
 
@@ -34,22 +35,32 @@ Information Systems graduate focused on backend and full stack development, API 
 
 **Full Stack Developer Intern — Dojo Startup**  
 02/2024 – 05/2024  
-- Developed mobile features using React Native and Firebase  
-- Implemented authentication and real-time database features  
-- Worked in a small Agile team and participated in code reviews  
+- Developed mobile and backend features using React Native, Firebase, and Python  
+- Implemented secure authentication, real-time database features, and backend integrations  
+- Participated in Agile workflow, sprint planning, and code reviews within a 3-person team  
+- Collaborated with team members on full-stack projects and system design
 
 ---
 
 ## 📌 Projects
 
 ### 🏥 Hospital Appointment Chatbot
-- AI-powered chatbot enabling automatic booking of medical appointments  
-- Implemented user registration, authentication, database management, and OpenAI integration  
-- Built with Flask, React, MongoDB, and external scheduling APIs  
+- AI-powered chatbot enabling automatic booking of hospital appointments  
+- Backend with Flask and MongoDB; secure JWT-based authentication  
+- OpenAI integration for intelligent symptom analysis and department routing  
+- External API integration for appointment scheduling  
+- Designed stateful session management for scalability and robust user experience  
 
 ### 📱 Masav Employee Management System
 - Android application for managing employee records and generating MASAV salary files  
-- Built with Java (Android Studio) and Firebase  
+- Implemented secure backend and Firebase integration  
+- Built with Java (Android Studio) and Firebase real-time database
+
+### 🔒 Minimal Authentication API
+- Standalone backend project implementing Flask + MongoDB  
+- JWT Authentication and bcrypt password hashing  
+- Scalable session management demonstration  
+- Prepared for GitHub and LinkedIn showcase
 
 ---
 
