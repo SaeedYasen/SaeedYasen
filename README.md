@@ -53,5 +53,5 @@ Full Stack Developer Intern — Dojo Startup
 ## Contact
 
 Email: saeedyasen41@gmail.com  
-LinkedIn: linkedin.com/in/saeed-yasen  
-GitHub: github.com/SaeedYasen
+[LinkedIn](linkedin.com/in/saeed-yasen)  
+[GitHub](github.com/SaeedYasen)
