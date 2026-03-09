@@ -1,91 +1,57 @@
-# 👋 Hi, I'm Saeed Yasen
+# Hi, I'm Saeed Yasen
 
-### Junior Backend Developer (Python | Flask | JWT | MongoDB | REST APIs | OpenAI)
+Junior Backend / Full-Stack Developer focused on building secure backend systems, REST APIs, and AI-assisted applications using Python and modern web technologies.
 
-Backend-focused developer with a B.Sc. in Information Systems. Hands-on experience building secure and scalable backend systems, REST APIs, authentication flows, and AI-driven features. Experienced in full project lifecycle, from design to deployment, and eager to contribute to professional engineering teams.
-
----
-
-## 🚀 Tech Stack
-
-**Languages**
-- Python
-- JavaScript
-
-**Backend**
-- Flask
-- REST APIs
-- JWT Authentication
-- Session & State Management
-- Authentication & Authorization concepts
-
-**Frontend**
-- React
-
-**Databases**
-- MongoDB
-- Firebase
-
-**Tools & Technologies**
-- Git
-- OpenAI API
-- External API Integration (GBooking)
-- Agile Workflow & Code Reviews
+B.Sc. in Information Systems with hands-on experience developing authentication systems, API integrations, and full-stack applications.
 
 ---
 
-## 🧑‍💻 Experience
+## Tech Stack
 
-**Full Stack Developer Intern — Dojo Startup**  
-*02/2024 – 05/2024*  
-- Built mobile features using React Native and Firebase  
-- Implemented authentication and real-time database features  
-- Connected backend logic with external APIs  
-- Participated in Agile workflow with a 3-person team and code reviews  
-- Assisted in mentoring peers on backend and database usage
+Languages  
+Python, JavaScript
 
----
+Backend  
+Flask, REST APIs, JWT Authentication, API Integration
 
-## 📌 Projects
+Frontend  
+React
 
-### 🏥 Hospital Appointment Chatbot
-- AI-powered chatbot enabling patients to book hospital appointments automatically  
-- Implemented secure registration & JWT authentication  
-- Integrated OpenAI API for intelligent department routing  
-- Managed database (MongoDB) interactions and session state  
-- Built end-to-end backend with Flask and external scheduling API integration
+Databases  
+MongoDB, Firebase
 
-### 🔐 Minimal Authentication API (Personal Project)
-- Backend microservice for authentication flows  
-- JWT-based login, password hashing with bcrypt, and protected routes  
-- Demonstrates knowledge of secure backend design, session management, and API structuring
-
-### 📱 Masav Employee Management System
-- Android app for managing employee records and generating MASAV salary files  
-- Built with Java (Android Studio) and Firebase  
-- Applied real-time database integration and secure data handling
+Tools  
+Git, OpenAI API, Agile Workflow
 
 ---
 
-## 🎓 Education
+## Featured Project
 
-**B.Sc. in Information Systems**  
-Max Stern Yezreel Valley College — 08/2025  
+### AI Medical Appointment Assistant
+
+Full-stack system that allows patients to book medical appointments using natural language.
+
+• Built with React frontend and Python Flask backend  
+• Designed REST APIs for appointment booking and scheduling  
+• Implemented secure authentication using JWT  
+• Integrated OpenAI API for interpreting patient requests  
+• Connected the system to an external appointment booking API
 
 ---
 
-## 📫 Contact
+## Experience
 
-Email: [saeedyasen41@gmail.com](mailto:saeedyasen41@gmail.com)  
-LinkedIn: [https://www.linkedin.com/in/saeed-yasen](https://www.linkedin.com/in/saeed-yasen)  
-GitHub: [https://github.com/SaeedYasen](https://github.com/SaeedYasen)
+Full Stack Developer Intern — Dojo Startup  
+02/2024 – 05/2024
+
+• Implemented authentication using Firebase Authentication  
+• Developed real-time comment and reply system with Firestore  
+• Worked in Agile team using Git and code reviews
 
 ---
 
-## 📌 What I Learn / Key Strengths
-- Designing and implementing backend systems with Python and Flask  
-- Creating secure authentication flows using JWT and bcrypt  
-- Structuring RESTful APIs and integrating external services  
-- Managing databases (MongoDB, Firebase) efficiently  
-- Building AI-driven features and intelligent routing with OpenAI API  
-- Agile workflow experience and peer code reviews
+## Contact
+
+Email: saeedyasen41@gmail.com  
+LinkedIn: linkedin.com/in/saeed-yasen  
+GitHub: github.com/SaeedYasen
