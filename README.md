@@ -1,57 +1,58 @@
-# Hi, I'm Saeed Yasen
+# Hi, I'm Saeed Yasen 👋
 
-Junior Backend / Full-Stack Developer focused on building secure backend systems, REST APIs, and AI-assisted applications using Python and modern web technologies.
+**QA Automation Engineer | B.Sc. in Information Systems | Python & Selenium Specialist**
 
-B.Sc. in Information Systems with hands-on experience developing authentication systems, API integrations, and full-stack applications.
-
----
-
-## Tech Stack
-
-Languages  
-Python, JavaScript
-
-Backend  
-Flask, REST APIs, JWT Authentication, API Integration
-
-Frontend  
-React
-
-Databases  
-MongoDB, Firebase
-
-Tools  
-Git, OpenAI API, Agile Workflow
+I am a results-driven QA Automation Engineer with a strong background in Full-Stack development. I specialize in building robust testing frameworks, automating complex workflows, and ensuring software excellence through data-driven strategies.
 
 ---
 
-## Featured Project
+## 🛠 Tech Stack
 
-### AI Medical Appointment Assistant
+**Automation & QA** `Selenium` `Playwright` `Appium` `PyTest` `Postman` `Manual Testing (STP/STD/STR)`
 
-Full-stack system that allows patients to book medical appointments using natural language.
+**Programming Languages** `Python` `JavaScript` `TypeScript` `Java` `SQL`
 
-• Built with React frontend and Python Flask backend  
-• Designed REST APIs for appointment booking and scheduling  
-• Implemented secure authentication using JWT  
-• Integrated OpenAI API for interpreting patient requests  
-• Connected the system to an external appointment booking API
+**Backend & Tools** `Flask` `React` `REST APIs` `JWT` `Git` `Agile` `Firebase` `MongoDB`
 
 ---
 
-## Experience
+## 🚀 Featured Projects
 
-Full Stack Developer Intern — Dojo Startup  
-02/2024 – 05/2024
+### [Terminal X Automation Suite](https://github.com/SaeedYasen/playwright-final-project) 
+**Full E2E Automated Testing Framework**
+* Designed a complete automation infrastructure from scratch for the Terminal X e-commerce platform.
+* Implemented UI, API, and Mobile tests using **Playwright** and **TypeScript**.
+* Integrated reporting, logging, and data management best practices for stable and maintainable tests.
 
-• Implemented authentication using Firebase Authentication  
-• Developed real-time comment and reply system with Firestore  
-• Worked in Agile team using Git and code reviews
+### [AI Medical Appointment Assistant](https://github.com/SaeedYasen/AI-Medical-Assistant)
+**Full-Stack System with Integrated Testing**
+* Built a full-stack booking system using **React** and **Python (Flask)**.
+* Integrated OpenAI API for natural language processing of patient requests.
+* Performed comprehensive **API validation** and backend security testing (JWT).
 
 ---
 
-## Contact
+## 💼 Professional Background
 
-Email: saeedyasen41@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/saeed-yasen/)  
-[GitHub](https://github.com/SaeedYasen)
+**Menu Specialist | HAAT Delivery** (05/2026 – Present)  
+* Optimizing large-scale datasets and ensuring data integrity using Excel scripts and technical analysis.
+
+**Full Stack Developer Intern | Dojo Startup** (02/2024 – 05/2024)  
+* Developed secure authentication modules and real-time database systems.
+* Focused on manual testing and API debugging to ensure feature stability.
+
+---
+
+## 🎓 Education & Certifications
+
+* **B.Sc. in Information Systems** (Software Technologies) – Yezreel Valley College
+* **QA Automation Certification** – Appleseeds & Elevation Academy
+* **Developers Boost Program** – Google & Reichman Tech
+
+---
+
+## 📫 Connect with me
+
+- **Email:** [saeedyasen41@gmail.com](mailto:saeedyasen41@gmail.com)
+- **LinkedIn:** [linkedin.com/in/saeed-yasen](https://www.linkedin.com/in/saeed-yasen/)
+- **Portfolio:** [Check out my Repositories](https://github.com/SaeedYasen?tab=repositories)
