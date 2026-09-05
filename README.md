@@ -1,58 +1,81 @@
 # Hi, I'm Saeed Yasen 👋
 
-**QA Automation Engineer | B.Sc. in Information Systems | Python & Selenium Specialist**
+**B.Sc. Information Systems | Systems & Data | QA & Automation | Software**
 
-I am a results-driven QA Automation Engineer with a strong background in Full-Stack development. I specialize in building robust testing frameworks, automating complex workflows, and ensuring software excellence through data-driven strategies.
+I am an Information Systems graduate with practical experience in **data validation, digital systems, troubleshooting, process automation, software testing, and application development**.
 
----
+In my current role at **HAAT Delivery**, I work with large product datasets and internal systems, focusing on data accuracy, quality, and operational workflows. I also use **Advanced Excel and Google Apps Script** to automate repetitive validation and data-processing tasks.
+
+My technical background includes **Python, SQL, REST APIs, Postman, JavaScript, TypeScript, React, Flask, Selenium, Playwright, and Git**.
+
+I am interested in junior opportunities where I can combine **systems, data, software, QA, and automation** to solve practical problems.
 
 ## 🛠 Tech Stack
 
-**Automation & QA** `Selenium` `Playwright` `Appium` `PyTest` `Postman` `Manual Testing (STP/STD/STR)`
+**Programming**  
+`Python` `SQL` `JavaScript` `TypeScript` `Java`
 
-**Programming Languages** `Python` `JavaScript` `TypeScript` `Java` `SQL`
+**Systems, Data & Automation**  
+`Advanced Excel` `Google Sheets` `Google Apps Script` `Data Validation` `Process Automation`
 
-**Backend & Tools** `Flask` `React` `REST APIs` `JWT` `Git` `Agile` `Firebase` `MongoDB`
+**QA & Testing**  
+`Manual Testing` `E2E Testing` `Selenium` `Playwright` `Postman` `API Testing`
 
----
+**Development**  
+`React` `React Native` `Flask` `REST APIs` `JWT`
+
+**Databases & Tools**  
+`MongoDB` `Firebase` `Git` `Agile`
 
 ## 🚀 Featured Projects
 
-### [Terminal X Automation Suite](https://github.com/SaeedYasen/playwright-final-project) 
-**Full E2E Automated Testing Framework**
-* Designed a complete automation infrastructure from scratch for the Terminal X e-commerce platform.
-* Implemented UI, API, and Mobile tests using **Playwright** and **TypeScript**.
-* Integrated reporting, logging, and data management best practices for stable and maintainable tests.
+### [Terminal X Automation Suite](https://github.com/SaeedYasen/playwright-final-project)
+**E2E Test Automation Project**
+
+- Built an automated testing project for an e-commerce platform.
+- Implemented UI and API testing using **Playwright and TypeScript**.
+- Worked with test organization, reusable automation flows, and reporting.
 
 ### [AI Medical Appointment Assistant](https://github.com/SaeedYasen/AI-Medical-Assistant)
-**Full-Stack System with Integrated Testing**
-* Built a full-stack booking system using **React** and **Python (Flask)**.
-* Integrated OpenAI API for natural language processing of patient requests.
-* Performed comprehensive **API validation** and backend security testing (JWT).
+**Full-Stack Application**
 
----
+- Built a web-based appointment assistant using **React and Python/Flask**.
+- Integrated OpenAI API for processing user requests.
+- Integrated an external appointment API for appointment-related data and workflows.
+- Used **REST APIs, MongoDB and Postman**.
 
-## 💼 Professional Background
+## 💼 Professional Experience
 
-**Menu Specialist | HAAT Delivery** (05/2026 – Present)  
-* Optimizing large-scale datasets and ensuring data integrity using Excel scripts and technical analysis.
+### HAAT Delivery — Menu Builder
+**May 2026 – Present**
 
-**Full Stack Developer Intern | Dojo Startup** (02/2024 – 05/2024)  
-* Developed secure authentication modules and real-time database systems.
-* Focused on manual testing and API debugging to ensure feature stability.
+- Manage and validate large product datasets using an internal CMS.
+- Investigate data inconsistencies and maintain data quality.
+- Use Advanced Excel and Google Apps Script to automate repetitive workflows.
+- Implemented an AI-assisted, keyword-based workflow to flag potentially restricted products for manual review.
+- Troubleshoot data and system-related issues and apply QA feedback.
 
----
+### Dojo Startup — Full Stack Developer Intern
+**February 2024 – May 2024**
 
-## 🎓 Education & Certifications
+- Contributed to a React Native application in an Agile team.
+- Worked with Firebase authentication and application data workflows.
+- Performed manual testing and API validation using Postman.
+- Used Git and collaborated through peer code reviews.
 
-* **B.Sc. in Information Systems** (Software Technologies) – Yezreel Valley College
-* **QA Automation Certification** – Appleseeds & Elevation Academy
-* **Developers Boost Program** – Google & Reichman Tech
+## 🎓 Education & Training
 
----
+**B.Sc. in Information Systems**  
+The Max Stern Yezreel Valley College
 
-## 📫 Connect with me
+**QA Automation Program**  
+Appleseeds & Elevation
 
-- **Email:** [saeedyasen41@gmail.com](mailto:saeedyasen41@gmail.com)
-- **LinkedIn:** [linkedin.com/in/saeed-yasen](https://www.linkedin.com/in/saeed-yasen/)
-- **Portfolio:** [Check out my Repositories](https://github.com/SaeedYasen?tab=repositories)
+**Developers Boost Program**  
+Google & Reichman Tech School
+
+## 📫 Connect With Me
+
+- Email: saeedyasen41@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saeed-yasen/
+- GitHub: https://github.com/SaeedYasen
