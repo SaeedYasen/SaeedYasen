@@ -36,7 +36,7 @@ I am interested in junior opportunities where I can combine **systems, data, sof
 - Implemented UI and API testing using **Playwright and TypeScript**.
 - Worked with test organization, reusable automation flows, and reporting.
 
-### [AI Medical Appointment Assistant](https://github.com/SaeedYasen/AI-Medical-Assistant)
+### [AI Medical Appointment Assistant](https://github.com/SaeedYasen/AI_Medical_Appointment_Assistant_Backend)
 **Full-Stack Application**
 
 - Built a web-based appointment assistant using **React and Python/Flask**.
